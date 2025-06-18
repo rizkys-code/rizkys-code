@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br> - 🔭 I’m currently working on **LAB ICT Terpadu**<br>- 🔭I also work at **Budi Luhur IT Club** as a Design Engineer.
+<br> - 🔭 I’m currently working on **LAB ICT Terpadu**<br>- 🔭I also work at **Budi Luhur IT Club** as a Design Engineer.<br>-🌱 I am currently exploring backend development to deepen my understanding of server-side technologies.
 
 
 
