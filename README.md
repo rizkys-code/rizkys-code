@@ -1,6 +1,6 @@
 
 ![gambar](img/github-header-image%20(5).png)
-##### Hello World! I'm Rizky Saputra 👋
+#### Hello World! I'm Rizky Saputra 👋
 
 <!--
 **rizkys-code/rizkys-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
